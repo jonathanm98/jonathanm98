@@ -1,5 +1,40 @@
+{{!-- ![Header](images/header.jpg) --}}
 
-### Hi there 👋
+## Hi there 👋
+
+
+## 📜 🇬🇧 My recent blog posts
+{{range rss "https://medium.com/feed/@gosev" 10}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
+## 📽 🇬🇧 My recent English videos
+<img src="https://img.shields.io/youtube/channel/subscribers/UC2DOovF-OjIQ6nHClUyLKKQ?style=for-the-badge"></img>
+<table>
+{{range rss "https://www.youtube.com/feeds/videos.xml?channel_id=UC2DOovF-OjIQ6nHClUyLKKQ" 5}}
+<tr>
+<td><img src="https://img.youtube.com/vi/{{slice .URL 32}}/default.jpg"></img></td>
+<td>
+<a href="{{.URL}}">{{.Title}}</a> ({{humanize .PublishedAt}}) <br/>
+<img src="https://img.shields.io/youtube/views/{{slice .URL 32}}?style=flat-square"> </img> 
+</td>
+</tr>
+{{- end}}
+</table>
+
+## 📜 🇫🇷 My recent French videos
+<img src="https://img.shields.io/youtube/channel/subscribers/UCzdX32OIhpfrdxQRhN2s98w?style=for-the-badge"></img>
+<table>
+{{range rss "https://www.youtube.com/feeds/videos.xml?channel_id=UCzdX32OIhpfrdxQRhN2s98w" 10}}
+<tr>
+<td><img src="https://img.youtube.com/vi/{{slice .URL 32}}/default.jpg"></img></td>
+<td>
+<a href="{{.URL}}">{{.Title}}</a> ({{humanize .PublishedAt}}) <br/>
+<img src="https://img.shields.io/youtube/views/{{slice .URL 32}}?style=flat-square"> </img> 
+</td>
+</tr>
+{{- end}}
+</table>
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
@@ -11,10 +46,6 @@
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-#### 🍴 My recent forks
-{{range recentForks 10}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
 
 #### 🔭 Latest releases I've contributed to
 {{range recentReleases 10}}
@@ -26,10 +57,6 @@
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 📜 My recent blog posts
-{{range rss "https://.../posts/index.xml" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
 
 #### 📓 Gists I wrote
 {{range gists 5}}
@@ -53,12 +80,11 @@
 
 #### 💬 Feedback
 
-Say Hello, I don't bite!
+Say Hello, I don't bite (much)!
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/...
-- Fediverse: https://mastodon.social/@...
-- Blog: https://...
+- Twitter: https://twitter.com/@kodapsacademy
+- Blog  🇫🇷: https://kodaps.fr
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
