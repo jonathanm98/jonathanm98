@@ -1,5 +1,7 @@
 ## Bienvenue sur mon GitHub 👋
 
+<img src="https://img.youtube.com/vi/plN1GwhiO9c/default.jpg"><img/>
+
 #### 👷 Ce sur quoi je travail en ce moment :
 
 - [jonathanm98/kanap](https://github.com/jonathanm98/kanap) -  (4 weeks ago)
