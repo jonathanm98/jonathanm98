@@ -10,4 +10,4 @@
 
 #### 📫 Ou me contacter
 
-- Twitter: https://twitter.com/@kodapsacademy
+- Twitter: https://twitter.com/@j_menelet
