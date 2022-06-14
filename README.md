@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bienvenue sur mon GitHub 👋
 
 #### 👷 Ce sur quoi je travail en ce moment :
 
