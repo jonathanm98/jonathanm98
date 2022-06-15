@@ -7,4 +7,5 @@
 
 #### 📫 Ou me contacter
 
-- Twitter: https://twitter.com/@j_menelet
+![img_twitter](./images/twitter-brands.svg)
+- LinkedIn: https://www.linkedin.com/in/jonathan-mlt/
