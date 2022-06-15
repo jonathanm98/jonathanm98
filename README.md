@@ -10,5 +10,6 @@
 
 #### 📫 Ou me contacter
 
-![img_twitter](./images/twitter-brands.svg)
+![img_twitter](./images/twitter-dark.svg#gh-light-mode-only)
+![img_twitter](./images/twitter-light.svg#gh-dark-mode-only)
 - LinkedIn: https://www.linkedin.com/in/jonathan-mlt/
