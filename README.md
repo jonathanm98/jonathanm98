@@ -1,5 +1,8 @@
 ## Bienvenue sur mon GitHub 👋
 
+#### Les technologies / outils que j'utilise :
+<img width="25px" alt="logo visual studio code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
 #### 👷 Ce sur quoi je travail en ce moment :
 
 - [jonathanm98/kanap](https://github.com/jonathanm98/kanap) -  (1 month ago)
