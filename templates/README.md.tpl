@@ -5,6 +5,9 @@
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
+#### Quelques chiffres 
+[![Les Stats GitHub de Jonathan](https://github-readme-stats.vercel.app/api?username=jonathanm98)]
+
 #### 📫 Ou me contacter
 
 ![img_twitter](./images/twitter-dark.svg#gh-dark-mode-only)
