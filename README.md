@@ -1,9 +1,8 @@
 # Jonathan.M Developpeur Full Stack (Node.Js/React)
 
-## Bienvenue sur mon GitHub 👋
+#### 🔨 Les technologies / outils que j'utilise :
 
-#### Les technologies / outils que j'utilise :
-<div style="display: flex; margin-left: 20px;">
+<div style="display: flex; margin-right: 20px;">
     <img width="30px" alt="logo visual studio code" src="./images/vscode-original.svg" />
     <img width="30px" alt="logo HTML5" src="./images/html5-original.svg" />
     <img width="30px" alt="logo node js" src="./images/nodejs-original.svg" />
@@ -12,6 +11,7 @@
 </div>
 
 #### 👷 Ce sur quoi je travail en ce moment :
+
 
 - [jonathanm98/kanap](https://github.com/jonathanm98/kanap) -  (1 month ago)
 - [jonathanm98/groupomania](https://github.com/jonathanm98/groupomania) -  (1 month ago)
