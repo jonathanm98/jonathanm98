@@ -4,11 +4,11 @@
 
 #### Les technologies / outils que j'utilise :
 <div style="display: flex; margin-left: 20px;">
-    <img width="30px" alt="logo visual studio code" src="./images/devicon/icons/vscode/vscode-original.svg" />
-    <img width="30px" alt="logo HTML5" src="./images/devicon/icons/html5/html5-original.svg" />
-    <img width="30px" alt="logo node js" src="./images/devicon/icons/nodejs/nodejs-original.svg" />
-    <img width="30px" alt="logo node js" src="./images/devicon/icons/react/react-original.svg" />
-    <img width="30px" alt="logo GitHub" src="./images/devicon/icons/github/github-original.svg" />
+    <img width="30px" alt="logo visual studio code" src="./images/vscode-original.svg" />
+    <img width="30px" alt="logo HTML5" src="./images/html5-original.svg" />
+    <img width="30px" alt="logo node js" src="./images/nodejs-original.svg" />
+    <img width="30px" alt="logo node js" src="./images/react-original.svg" />
+    <img width="30px" alt="logo GitHub" src="./images/github-original.svg" />
 </div>
 
 #### 👷 Ce sur quoi je travail en ce moment :
