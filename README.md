@@ -13,11 +13,11 @@
 #### 👷 Ce sur quoi je travail en ce moment :
 
 
+- [jonathanm98/react-redux-firebase](https://github.com/jonathanm98/react-redux-firebase) - Initiation au service d&#39;authentification &#34;Firebase&#34; de Google (today)
 - [jonathanm98/kanap](https://github.com/jonathanm98/kanap) -  (2 months ago)
 - [jonathanm98/groupomania](https://github.com/jonathanm98/groupomania) -  (2 months ago)
 - [jonathanm98/ohmyfood](https://github.com/jonathanm98/ohmyfood) -  (3 months ago)
 - [jonathanm98/api-the-hottest-review](https://github.com/jonathanm98/api-the-hottest-review) -  (5 months ago)
-- [jonathanm98/la-chouette-agence](https://github.com/jonathanm98/la-chouette-agence) -  (8 months ago)
 
 #### Quelques chiffres 
 ![Les Stats GitHub de Jonathan](https://github-readme-stats.vercel.app/api?username=jonathanm98)
