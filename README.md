@@ -15,7 +15,7 @@
 
 - [jonathanm98/react-redux-firebase](https://github.com/jonathanm98/react-redux-firebase) - Initiation au service d&#39;authentification &#34;Firebase&#34; de Google (3 months ago)
 - [jonathanm98/kanap](https://github.com/jonathanm98/kanap) -  (5 months ago)
-- [jonathanm98/groupomania](https://github.com/jonathanm98/groupomania) -  (5 months ago)
+- [jonathanm98/groupomania](https://github.com/jonathanm98/groupomania) -  (6 months ago)
 - [jonathanm98/ohmyfood](https://github.com/jonathanm98/ohmyfood) -  (6 months ago)
 - [jonathanm98/api-the-hottest-review](https://github.com/jonathanm98/api-the-hottest-review) -  (8 months ago)
 
