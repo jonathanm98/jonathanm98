@@ -13,7 +13,7 @@
 #### 👷 Ce sur quoi je travail en ce moment :
 
 
-- [jonathanm98/react-redux-firebase](https://github.com/jonathanm98/react-redux-firebase) - Initiation au service d&#39;authentification &#34;Firebase&#34; de Google (3 months ago)
+- [jonathanm98/react-redux-firebase](https://github.com/jonathanm98/react-redux-firebase) - Initiation au service d&#39;authentification &#34;Firebase&#34; de Google (4 months ago)
 - [jonathanm98/kanap](https://github.com/jonathanm98/kanap) -  (6 months ago)
 - [jonathanm98/groupomania](https://github.com/jonathanm98/groupomania) -  (6 months ago)
 - [jonathanm98/ohmyfood](https://github.com/jonathanm98/ohmyfood) -  (7 months ago)
