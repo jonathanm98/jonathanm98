@@ -6,7 +6,7 @@
     <img width="30px" alt="logo visual studio code" src="./images/vscode-original.svg" />
     <img width="30px" alt="logo HTML5" src="./images/html5-original.svg" />
     <img width="30px" alt="logo node js" src="./images/nodejs-original.svg" />
-    <img width="30px" alt="logo node js" src="./images/react-original.svg" />
+    <img width="30px" alt="logo react js" src="./images/react-original.svg" />
     <img width="30px" alt="logo GitHub" src="./images/github-original.svg" />
 </div>
 
