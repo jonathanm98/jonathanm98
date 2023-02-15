@@ -14,8 +14,8 @@
 #### 👷 Ce sur quoi je travail en ce moment :
 
 
-- [jonathanm98/cooking-app](https://github.com/jonathanm98/cooking-app) - Projet react d&#39;application basique de recherche de recettes de cuisines  (1 day ago)
-- [jonathanm98/react-world](https://github.com/jonathanm98/react-world) -  (1 day ago)
+- [jonathanm98/cooking-app](https://github.com/jonathanm98/cooking-app) - Projet react d&#39;application basique de recherche de recettes de cuisines  (2 days ago)
+- [jonathanm98/react-world](https://github.com/jonathanm98/react-world) -  (2 days ago)
 - [jonathanm98/Cook-Chef](https://github.com/jonathanm98/Cook-Chef) -  (1 month ago)
 - [jonathanm98/react-redux-firebase](https://github.com/jonathanm98/react-redux-firebase) - Initiation au service d&#39;authentification &#34;Firebase&#34; de Google (6 months ago)
 - [jonathanm98/kanap](https://github.com/jonathanm98/kanap) -  (9 months ago)
