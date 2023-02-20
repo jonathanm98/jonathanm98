@@ -5,6 +5,7 @@
 <div style="display: flex; margin-right: 20px;">
     <img width="30px" alt="logo visual studio code" src="./images/vscode-original.svg" />
     <img width="30px" alt="logo HTML5" src="./images/html5-original.svg" />
+    <img width="30px" alt="logo SASS" src="./images/sass-original.svg" />
     <img width="30px" alt="logo node js" src="./images/nodejs-original.svg" />
     <img width="30px" alt="logo node js" src="./images/react-original.svg" />
     <img width="30px" alt="logo GitHub" src="./images/github-original.svg" />
@@ -13,17 +14,16 @@
 #### 👷 Ce sur quoi je travail en ce moment :
 
 
+- [jonathanm98/cooking-app](https://github.com/jonathanm98/cooking-app) - Projet react d&#39;application basique de recherche de recettes de cuisines  (today)
 - [jonathanm98/react-world](https://github.com/jonathanm98/react-world) -  (today)
 - [jonathanm98/Cook-Chef](https://github.com/jonathanm98/Cook-Chef) -  (1 month ago)
 - [jonathanm98/react-redux-firebase](https://github.com/jonathanm98/react-redux-firebase) - Initiation au service d&#39;authentification &#34;Firebase&#34; de Google (6 months ago)
 - [jonathanm98/kanap](https://github.com/jonathanm98/kanap) -  (9 months ago)
-- [jonathanm98/groupomania](https://github.com/jonathanm98/groupomania) -  (9 months ago)
 
 #### Quelques chiffres 
 ![Les Stats GitHub de Jonathan](https://github-readme-stats.vercel.app/api?username=jonathanm98)
 
 #### 📫 Ou me contacter
 
-[![img_twitter](./images/twitter-dark.svg#gh-dark-mode-only)](https://github.com/jonathanm98)
-[![img_twitter](./images/twitter-light.svg#gh-light-mode-only)](https://github.com/jonathanm98)
+- Twitter: https://twitter.com/j_menelet
 - LinkedIn: https://www.linkedin.com/in/jonathan-mlt/
