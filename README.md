@@ -15,11 +15,11 @@
 #### 👷 Ce sur quoi je travail en ce moment :
 
 
-- [jonathanm98/jm-agency](https://github.com/jonathanm98/jm-agency) - Faux site vitrine d&#39;agence web (introduction aux animations avec react) (2 days ago)
+- [jonathanm98/nextjs-introduce](https://github.com/jonathanm98/nextjs-introduce) - Projet basique utilisant NextJs (today)
 - [jonathanm98/react-template](https://github.com/jonathanm98/react-template) - Simple clean react template with sass (2 days ago)
+- [jonathanm98/jm-agency](https://github.com/jonathanm98/jm-agency) - Faux site vitrine d&#39;agence web (introduction aux animations avec react) (2 days ago)
 - [jonathanm98/react-form](https://github.com/jonathanm98/react-form) - Template vierge de formulaire de contact react (3 days ago)
 - [jonathanm98/cooking-app](https://github.com/jonathanm98/cooking-app) - Projet react d&#39;application basique de recherche de recettes de cuisines  (1 week ago)
-- [jonathanm98/react-world](https://github.com/jonathanm98/react-world) -  (1 week ago)
 
 #### Quelques chiffres 
 ![Les Stats GitHub de Jonathan](https://github-readme-stats.vercel.app/api?username=jonathanm98)
