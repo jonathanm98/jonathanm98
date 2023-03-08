@@ -15,7 +15,7 @@
 #### 👷 Ce sur quoi je travail en ce moment :
 
 
-- [jonathanm98/react-tmdb](https://github.com/jonathanm98/react-tmdb) - Application de recherche de films et de séries basée sur l&#39;API The Movie Database (TMDB) (1 week ago)
+- [jonathanm98/react-tmdb](https://github.com/jonathanm98/react-tmdb) - Application de recherche de films et de séries basée sur l&#39;API The Movie Database (TMDB) (today)
 - [jonathanm98/nextjs-introduce](https://github.com/jonathanm98/nextjs-introduce) - Projet basique utilisant NextJs (1 week ago)
 - [jonathanm98/react-template](https://github.com/jonathanm98/react-template) - Simple clean react template with sass (1 week ago)
 - [jonathanm98/jm-agency](https://github.com/jonathanm98/jm-agency) - Faux site vitrine d&#39;agence web (introduction aux animations avec react) (1 week ago)
