@@ -16,7 +16,7 @@
 
 
 - [jonathanm98/react-tmdb](https://github.com/jonathanm98/react-tmdb) - Application de recherche de films et de séries basée sur l&#39;API The Movie Database (TMDB) (today)
-- [jonathanm98/asynconf](https://github.com/jonathanm98/asynconf) - Projet de formation de création d&#39;application via Flutter3 (2 days ago)
+- [jonathanm98/asynconf](https://github.com/jonathanm98/asynconf) - Projet de formation de création d&#39;application via Flutter3 (3 days ago)
 - [jonathanm98/nextjs-introduce](https://github.com/jonathanm98/nextjs-introduce) - Projet basique utilisant NextJs (2 weeks ago)
 - [jonathanm98/react-template](https://github.com/jonathanm98/react-template) - Simple clean react template with sass (2 weeks ago)
 - [jonathanm98/jm-agency](https://github.com/jonathanm98/jm-agency) - Faux site vitrine d&#39;agence web (introduction aux animations avec react) (2 weeks ago)
