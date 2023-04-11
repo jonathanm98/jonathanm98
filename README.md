@@ -15,11 +15,11 @@
 #### 👷 Ce sur quoi je travail en ce moment :
 
 
-- [jonathanm98/portfolio](https://github.com/jonathanm98/portfolio) - Portfolio personnel developpé avec React et ThreeJs (4 days ago)
+- [jonathanm98/react-music](https://github.com/jonathanm98/react-music) - Clone allégé de spotify player (today)
 - [jonathanm98/kanap](https://github.com/jonathanm98/kanap) -  (4 days ago)
+- [jonathanm98/portfolio](https://github.com/jonathanm98/portfolio) - Portfolio personnel developpé avec React et ThreeJs (4 days ago)
 - [jonathanm98/groupomania](https://github.com/jonathanm98/groupomania) - Projet de réseau social utilisant React et Redux (Front) et NodeJs, express (Back) (5 days ago)
 - [jonathanm98/react-template](https://github.com/jonathanm98/react-template) - Simple clean react template with sass (1 week ago)
-- [jonathanm98/img-handler-react-express](https://github.com/jonathanm98/img-handler-react-express) -  (2 weeks ago)
 
 #### Quelques chiffres 
 ![Les Stats GitHub de Jonathan](https://github-readme-stats.vercel.app/api?username=jonathanm98)
