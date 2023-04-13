@@ -15,10 +15,10 @@
 #### 👷 Ce sur quoi je travail en ce moment :
 
 
-- [jonathanm98/react-music](https://github.com/jonathanm98/react-music) - Clone allégé de spotify player (1 day ago)
-- [jonathanm98/kanap](https://github.com/jonathanm98/kanap) -  (5 days ago)
-- [jonathanm98/portfolio](https://github.com/jonathanm98/portfolio) - Portfolio personnel developpé avec React et ThreeJs (5 days ago)
-- [jonathanm98/groupomania](https://github.com/jonathanm98/groupomania) - Projet de réseau social utilisant React et Redux (Front) et NodeJs, express (Back) (6 days ago)
+- [jonathanm98/react-music](https://github.com/jonathanm98/react-music) - Clone allégé de spotify player (2 days ago)
+- [jonathanm98/kanap](https://github.com/jonathanm98/kanap) -  (6 days ago)
+- [jonathanm98/portfolio](https://github.com/jonathanm98/portfolio) - Portfolio personnel developpé avec React et ThreeJs (6 days ago)
+- [jonathanm98/groupomania](https://github.com/jonathanm98/groupomania) - Projet de réseau social utilisant React et Redux (Front) et NodeJs, express (Back) (1 week ago)
 - [jonathanm98/react-template](https://github.com/jonathanm98/react-template) - Simple clean react template with sass (1 week ago)
 
 #### Quelques chiffres 
