@@ -15,7 +15,7 @@
 #### 👷 Ce sur quoi je travail en ce moment :
 
 
-- [jonathanm98/groupomania](https://github.com/jonathanm98/groupomania) - Projet de réseau social utilisant React et Redux (Front) et NodeJs, express (Back) (1 month ago)
+- [jonathanm98/groupomania](https://github.com/jonathanm98/groupomania) - Projet de réseau social utilisant React et Redux (Front) et NodeJs, express (Back) (2 months ago)
 - [jonathanm98/react-music](https://github.com/jonathanm98/react-music) - Clone allégé de spotify player (2 months ago)
 - [jonathanm98/portfolio](https://github.com/jonathanm98/portfolio) - Portfolio personnel developpé avec React et ThreeJs (2 months ago)
 - [jonathanm98/kanap](https://github.com/jonathanm98/kanap) -  (2 months ago)
