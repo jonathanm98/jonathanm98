@@ -19,7 +19,7 @@
 - [jonathanm98/react-music](https://github.com/jonathanm98/react-music) - Clone allégé de spotify player (2 months ago)
 - [jonathanm98/portfolio](https://github.com/jonathanm98/portfolio) - Portfolio personnel developpé avec React et ThreeJs (2 months ago)
 - [jonathanm98/kanap](https://github.com/jonathanm98/kanap) -  (2 months ago)
-- [jonathanm98/react-template](https://github.com/jonathanm98/react-template) - Simple clean react template with sass (2 months ago)
+- [jonathanm98/react-template](https://github.com/jonathanm98/react-template) - Simple clean react template with sass (3 months ago)
 
 #### Quelques chiffres 
 ![Les Stats GitHub de Jonathan](https://github-readme-stats.vercel.app/api?username=jonathanm98)
