@@ -15,7 +15,7 @@
 #### 👷 Ce sur quoi je travail en ce moment :
 
 
-- [jonathanm98/discord-bot](https://github.com/jonathanm98/discord-bot) - Projet de bot musique et de jeu (2 days ago)
+- [jonathanm98/discord-bot](https://github.com/jonathanm98/discord-bot) - Projet de bot musique et de jeu (3 days ago)
 - [jonathanm98/groupomania](https://github.com/jonathanm98/groupomania) - Projet de réseau social utilisant React et Redux (Front) et NodeJs, express (Back) (6 months ago)
 - [jonathanm98/react-music](https://github.com/jonathanm98/react-music) - Clone allégé de spotify player (7 months ago)
 - [jonathanm98/portfolio](https://github.com/jonathanm98/portfolio) - Portfolio personnel developpé avec React et ThreeJs (7 months ago)
