@@ -15,7 +15,7 @@
 #### 👷 Ce sur quoi je travail en ce moment :
 
 
-- [jonathanm98/back-project-ners](https://github.com/jonathanm98/back-project-ners) - Projet de réseau social simple. Partie back-end qui utilisera NodeJS, Express, Sequelize(MariaDB)&#34; (3 days ago)
+- [jonathanm98/back-project-ners](https://github.com/jonathanm98/back-project-ners) - Projet de réseau social simple. Partie back-end qui utilisera NodeJS, Express, Sequelize(MariaDB)&#34; (today)
 - [jonathanm98/node-pokemon-api](https://github.com/jonathanm98/node-pokemon-api) -  (1 week ago)
 - [jonathanm98/discord-bot](https://github.com/jonathanm98/discord-bot) - Projet de bot musique et de jeu (3 weeks ago)
 - [jonathanm98/groupomania](https://github.com/jonathanm98/groupomania) - Projet de réseau social utilisant React et Redux (Front) et NodeJs, express (Back) (7 months ago)
