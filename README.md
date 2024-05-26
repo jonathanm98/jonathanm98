@@ -18,7 +18,7 @@
 - [jonathanm98/front-project-ners](https://github.com/jonathanm98/front-project-ners) - Projet de réseau social simple. Partie front-end qui utilisera React et React REDUX (5 months ago)
 - [jonathanm98/back-project-ners](https://github.com/jonathanm98/back-project-ners) - Projet de réseau social simple. Partie back-end qui utilisera NodeJS, Express, Sequelize(MariaDB)&#34; (5 months ago)
 - [Artix261/project-zbi](https://github.com/Artix261/project-zbi) -  (5 months ago)
-- [jonathanm98/node-pokemon-api](https://github.com/jonathanm98/node-pokemon-api) -  (5 months ago)
+- [jonathanm98/node-pokemon-api](https://github.com/jonathanm98/node-pokemon-api) -  (6 months ago)
 - [jonathanm98/discord-bot](https://github.com/jonathanm98/discord-bot) - Projet de bot musique et de jeu (6 months ago)
 
 #### Quelques chiffres 
