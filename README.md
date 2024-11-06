@@ -15,11 +15,11 @@
 #### 👷 Ce sur quoi je travail en ce moment :
 
 
-- [jonathanm98/front-project-ners](https://github.com/jonathanm98/front-project-ners) - Projet de réseau social simple. Partie front-end qui utilisera React et React REDUX (10 months ago)
+- [jonathanm98/front-project-ners](https://github.com/jonathanm98/front-project-ners) - Projet de réseau social simple. Partie front-end qui utilisera React et React REDUX (11 months ago)
 - [jonathanm98/back-project-ners](https://github.com/jonathanm98/back-project-ners) - Projet de réseau social simple. Partie back-end qui utilisera NodeJS, Express, Sequelize(MariaDB)&#34; (11 months ago)
 - [Artix261/project-zbi](https://github.com/Artix261/project-zbi) -  (11 months ago)
 - [jonathanm98/node-pokemon-api](https://github.com/jonathanm98/node-pokemon-api) -  (11 months ago)
-- [jonathanm98/discord-bot](https://github.com/jonathanm98/discord-bot) - Projet de bot musique et de jeu (11 months ago)
+- [jonathanm98/discord-bot](https://github.com/jonathanm98/discord-bot) - Projet de bot musique et de jeu (1 year ago)
 
 #### Quelques chiffres 
 ![Les Stats GitHub de Jonathan](https://github-readme-stats.vercel.app/api?username=jonathanm98)
