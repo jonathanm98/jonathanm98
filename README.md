@@ -15,7 +15,7 @@
 #### 👷 Ce sur quoi je travail en ce moment :
 
 
-- [jonathanm98/front-project-ners](https://github.com/jonathanm98/front-project-ners) - Projet de réseau social simple. Partie front-end qui utilisera React et React REDUX (11 months ago)
+- [jonathanm98/front-project-ners](https://github.com/jonathanm98/front-project-ners) - Projet de réseau social simple. Partie front-end qui utilisera React et React REDUX (1 year ago)
 - [jonathanm98/back-project-ners](https://github.com/jonathanm98/back-project-ners) - Projet de réseau social simple. Partie back-end qui utilisera NodeJS, Express, Sequelize(MariaDB)&#34; (1 year ago)
 - [Artix261/project-zbi](https://github.com/Artix261/project-zbi) -  (1 year ago)
 
